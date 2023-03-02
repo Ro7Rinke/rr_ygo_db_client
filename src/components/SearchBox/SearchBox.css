@@ -1,0 +1,24 @@
+.container-search-box {
+    width: 70%;
+    height: 50px;
+    display: flex;
+}
+
+.search-box {
+    /* width: 70%; */
+    /* height: 50px; */
+    /* background-color: blueviolet; */
+    /* text-align: center; */
+    justify-items: center;
+    border-radius: 12px;
+    font-weight: bold;
+    font-size: larger;
+    padding-left: 15px;
+    flex: 1;
+}
+
+.button-search-box {
+    margin-left: 5px;
+    width: 70px;
+    border-radius: 12px;
+}

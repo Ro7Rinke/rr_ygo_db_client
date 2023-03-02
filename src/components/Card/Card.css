@@ -1,0 +1,38 @@
+.container-card {
+    display: flex;
+    text-align: left;
+    /* justify-content: flex-end;
+    align-items: flex-end; */
+}
+
+.pic-card {
+    margin: 5px;
+}
+
+.container-box-info-card {
+    /* flex: auto; */
+    background-color: white;
+    /* width: 30px; */
+    /* height: 30px; */
+    flex: 1;
+    margin: 5px;
+    margin-left: 30px;
+}
+
+.text-info-card {
+    margin-bottom: 5px;
+    font-size: larger;
+}
+
+.text-booster-card {
+    font-size: large;
+    margin-bottom: 6px;
+}
+
+.text-rarity-card {
+    background-color: cornflowerblue;
+    padding: 3px;
+    border-radius: 7px;
+    font-weight: 600;
+    font-size: medium;
+}
